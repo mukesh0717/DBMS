@@ -23,7 +23,7 @@ A simple Java project using JDBC and MySQL for managing college data.
 
 1. **Clone this repository:**
 
-   [🌐 View Project on GitHub](https://github.com/mukesh0717/DBMS)
+   [🌐 View Project on GitHub](https://github.com/mukesh0717/DBMS-MiniProject-241001140.git)
 
 2. **Open** in IntelliJ IDEA or any other Java IDE.
 
